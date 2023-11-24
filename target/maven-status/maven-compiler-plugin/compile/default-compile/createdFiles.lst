@@ -1,0 +1,10 @@
+Entidades\Autor.class
+Servicios\AutorServicio.class
+Entidades\Editorial_.class
+Servicios\LibroServicio.class
+com\mycompany\libreriajpa\LibreriaJPA.class
+Entidades\Editorial.class
+Servicios\EditorialServicio.class
+Entidades\Libro.class
+Entidades\Autor_.class
+Entidades\Libro_.class
